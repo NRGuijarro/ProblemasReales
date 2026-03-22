@@ -1,0 +1,75 @@
+{
+  "nombre": "Ventas2024",
+  "celdas": [
+    {
+      "fila": 0,
+      "columna": 0,
+      "valor": "Producto"
+    },
+    {
+      "fila": 0,
+      "columna": 1,
+      "valor": "Enero"
+    },
+    {
+      "fila": 0,
+      "columna": 2,
+      "valor": "Febrero"
+    },
+    {
+      "fila": 0,
+      "columna": 3,
+      "valor": "Marzo"
+    },
+    {
+      "fila": 1,
+      "columna": 0,
+      "valor": "Laptop"
+    },
+    {
+      "fila": 1,
+      "columna": 1,
+      "valor": 5000
+    },
+    {
+      "fila": 1,
+      "columna": 2,
+      "valor": 5100
+    },
+    {
+      "fila": 1,
+      "columna": 3,
+      "valor": 4500
+    },
+    {
+      "fila": 2,
+      "columna": 0,
+      "valor": "Monitor"
+    },
+    {
+      "fila": 2,
+      "columna": 2,
+      "valor": 1500
+    },
+    {
+      "fila": 2,
+      "columna": 3,
+      "valor": 1800
+    },
+    {
+      "fila": 3,
+      "columna": 0,
+      "valor": "Teclado"
+    },
+    {
+      "fila": 3,
+      "columna": 2,
+      "valor": 300
+    },
+    {
+      "fila": 3,
+      "columna": 3,
+      "valor": 350
+    }
+  ]
+}

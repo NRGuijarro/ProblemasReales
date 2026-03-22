@@ -1,0 +1,5 @@
+INTRODUCCIÓN A LAS LISTAS DOBLEMENTE ENLAZADAS
+← Esta es una línea insertada en el medio
+Permiten inserción y eliminación eficiente
+Por ejemplo: sistemas de archivos, pilas, colas
+Las listas doblemente enlazadas son estructuras dinámicas
